@@ -1,1 +1,1 @@
-![Architecture de l'Agent](./assets/nom_de_votre_image.png)
+![Architecture de l'Agent](./assets/diagram.png)
